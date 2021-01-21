@@ -1,0 +1,16 @@
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\GameTop\bin\Debug\net5.0\GameTop.exe
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\GameTop\bin\Debug\net5.0\GameTop.deps.json
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\GameTop\bin\Debug\net5.0\GameTop.runtimeconfig.json
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\GameTop\bin\Debug\net5.0\GameTop.runtimeconfig.dev.json
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\GameTop\bin\Debug\net5.0\GameTop.dll
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\GameTop\bin\Debug\net5.0\ref\GameTop.dll
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\GameTop\bin\Debug\net5.0\GameTop.pdb
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\GameTop\obj\Debug\net5.0\GameTop.csprojAssemblyReference.cache
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\GameTop\obj\Debug\net5.0\GameTop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\GameTop\obj\Debug\net5.0\GameTop.AssemblyInfoInputs.cache
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\GameTop\obj\Debug\net5.0\GameTop.AssemblyInfo.cs
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\GameTop\obj\Debug\net5.0\GameTop.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\GameTop\obj\Debug\net5.0\GameTop.dll
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\GameTop\obj\Debug\net5.0\ref\GameTop.dll
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\GameTop\obj\Debug\net5.0\GameTop.pdb
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\GameTop\obj\Debug\net5.0\GameTop.genruntimeconfig.cache
