@@ -6,7 +6,7 @@ namespace GameTop
     {
         static void Main(string[] args)
         {
-            var jogo = new JogoFoda(
+            var jogo = new JogoFutebol(
                 new Jogador1(),
                 new Jogador2());
             jogo.IniciarJogo();

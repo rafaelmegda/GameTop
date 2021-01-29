@@ -4,17 +4,17 @@ namespace GameTop
     {
         public string Chuta()
         {
-            return "Neymar esta chutando";
+            return "Neymar esta chutando \n";
         }
 
         public string Corre()
         {
-            return "Neymar esta correndo";
+            return "Neymar esta correndo \n";
         }
 
         public string Passe()
         {
-            return "Neymar esta passando";
+            return "Neymar esta passando \n";
         }
     }
 }

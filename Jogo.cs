@@ -2,12 +2,12 @@ using System;
 
 namespace GameTop
 {
-    public class JogoFoda
+    public class JogoFutebol
     {
         private readonly IJogador _jogadorA;
         private readonly IJogador _jogadorB;
 
-        public JogoFoda(IJogador jogadorA, IJogador jogadorB)
+        public JogoFutebol(IJogador jogadorA, IJogador jogadorB)
         {
             _jogadorA = jogadorA;
             _jogadorB = jogadorB;
