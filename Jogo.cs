@@ -4,8 +4,8 @@ namespace GameTop
 {
     public class JogoFoda
     {
-        
-        public Jogador _jogador { get; }
+        private readonly Jogador _jogador;
+
         public JogoFoda(Jogador jogador)
         {
             _jogador = jogador;
@@ -13,7 +13,7 @@ namespace GameTop
         
         public void IniciarJogo()
         {
-            Console.Write($"{_jogador.nome} deu um passe");
+            Console.Write($"{_jogador._Nome} deu um passe");
         }
     }
 }

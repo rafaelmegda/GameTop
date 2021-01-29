@@ -4,7 +4,7 @@ namespace GameTop
 {
     public class Jogador
     {
-        public string _Nome { get; set; }
+        public readonly string _Nome;
 
         public Jogador(string nome)
         {
