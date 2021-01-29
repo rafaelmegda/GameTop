@@ -4,16 +4,24 @@ namespace GameTop
 {
     public class JogoFoda
     {
-        private readonly Jogador _jogador;
+        private readonly IJogador _jogadorA;
+        private readonly IJogador _jogadorB;
 
-        public JogoFoda(Jogador jogador)
+        public JogoFoda(IJogador jogadorA, IJogador jogadorB)
         {
-            _jogador = jogador;
+            _jogadorA = jogadorA;
+            _jogadorB = jogadorB;
         }
         
         public void IniciarJogo()
         {
-            Console.Write($"{_jogador._Nome} deu um passe");
+            Console.Write(_jogadorA.Corre());
+            Console.Write(_jogadorA.Passe());
+            Console.Write(_jogadorA.Chuta());
+
+            Console.Write(_jogadorB.Corre());
+            Console.Write(_jogadorB.Passe());
+            Console.Write(_jogadorB.Chuta());
         }
     }
 }
